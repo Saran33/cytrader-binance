@@ -7,7 +7,7 @@ Create your strategy for the [Backtrader](https://www.backtrader.com), do the ba
 Installation
 ============
 
-pip install git+https://github.com/Saran33/cytrader-binance.git
+`pip install git+https://github.com/Saran33/cytrader-binance.git`
 
 Usage
 =====
