@@ -1,0 +1,4 @@
+cytrader @ git+https://github.com/Saran33/cytrader.git
+matplotlib
+pandas
+python-binance==1.0.12
