@@ -18,7 +18,7 @@ setup(
     author_email='saran.c@pwecapital.com',
     license='MIT',
     packages=['cytrader_binance'],
-    python_requires='>=3.97',
+    python_requires='>=3.9.7',
     keywords='cytrader,binance,bitcoin,bot,crypto,trading',
     install_requires=REQUIREMENTS
 )
